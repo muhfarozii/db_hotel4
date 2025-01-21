@@ -10,7 +10,7 @@
 <style>
     body {
     margin: 0px;
-    padding: 0;
+    padding: 0px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -33,7 +33,7 @@
 
 .hero h1 {
     font-size: 3em;
-    margin: 0;
+    margin: 0px;
     color:white;
 }
 
@@ -71,7 +71,7 @@
         </div>
     </section>
   
-    <footer class="footer">
+    <footer class="footer" id="">
         <p>&copy; 2024 Luxury Hotel. Adem adem penake check in!.</p>
     </footer>
 </body>
